@@ -1,0 +1,1 @@
+# first-assignment-smallest-number-in-the-array
